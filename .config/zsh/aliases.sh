@@ -1,3 +1,3 @@
 # zsh aliases 
 
-alias ls='eza --color=always'
+alias ls='eza --color=always -lha'
