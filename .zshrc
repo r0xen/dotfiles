@@ -64,3 +64,5 @@ zstyle ':fzf-tab:complete:__zoxide_j:*' fzf-preview 'ls --color $realpath'
 # Shell integrations
 eval "$(fzf --zsh)"
 eval "$(zoxide init --cmd j zsh)"
+
+. "$HOME/.local/bin/env"

@@ -7,7 +7,7 @@ alias t='tmux attach || tmux new-session'
 alias ta='tmux attach -t'
 #
 # # Creates a new session
-alias ts='tmux new-session -s'
+alias tn='tmux new-session -s'
 #
 # # Lists all ongoing sessions
 alias tl='tmux list-sessions'
